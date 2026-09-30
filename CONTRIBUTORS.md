@@ -22,3 +22,4 @@ This file lists all students contributing Homework 1
 <!-- Students: Add your entries below this line! -->
 
 
+**Tyler Petty** (GitHub: TPetty68) | Shutter Island
